@@ -1,0 +1,36 @@
+{
+  "apresentacao": {
+    "titulo": "VTD DESIGN",
+    "intervaloStories": 5000,
+    "intro": {
+      "logo": "assets/vtd-logo.png",
+      "texto": "TOQUE NA TELA"
+    },
+    "textos": {
+      "feed": {
+        "titulo": "POST FEED",
+        "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      "stories": {
+        "titulo": "STORIES",
+        "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      }
+    },
+    "postFeed": [
+      "projects/apresentacao-vtd/post-feed/post-1.jpg",
+      "projects/apresentacao-vtd/post-feed/post-2.jpg",
+      "projects/apresentacao-vtd/post-feed/post-3.jpg",
+      "projects/apresentacao-vtd/post-feed/post-4.jpg"
+    ],
+    "stories": [
+      "projects/apresentacao-vtd/stories/story-1.jpg",
+      "projects/apresentacao-vtd/stories/story-2.jpg",
+      "projects/apresentacao-vtd/stories/story-3.jpg"
+    ],
+    "final": {
+      "logo": "assets/vtd-logo-escuro.png",
+      "botao": "CLIQUE AQUI E FAÇA SEU ORÇAMENTO",
+      "link": "https://wa.link/up0y8b"
+    }
+  }
+}
